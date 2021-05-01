@@ -1,0 +1,16 @@
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\ConsoleApp1\BAI_1.0_DELEGATE\bin\Debug\net5.0\BAI_1.0_DELEGATE.exe
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\ConsoleApp1\BAI_1.0_DELEGATE\bin\Debug\net5.0\BAI_1.0_DELEGATE.deps.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\ConsoleApp1\BAI_1.0_DELEGATE\bin\Debug\net5.0\BAI_1.0_DELEGATE.runtimeconfig.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\ConsoleApp1\BAI_1.0_DELEGATE\bin\Debug\net5.0\BAI_1.0_DELEGATE.runtimeconfig.dev.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\ConsoleApp1\BAI_1.0_DELEGATE\bin\Debug\net5.0\BAI_1.0_DELEGATE.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\ConsoleApp1\BAI_1.0_DELEGATE\bin\Debug\net5.0\ref\BAI_1.0_DELEGATE.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\ConsoleApp1\BAI_1.0_DELEGATE\bin\Debug\net5.0\BAI_1.0_DELEGATE.pdb
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\ConsoleApp1\BAI_1.0_DELEGATE\obj\Debug\net5.0\BAI_1.0_DELEGATE.GeneratedMSBuildEditorConfig.editorconfig
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\ConsoleApp1\BAI_1.0_DELEGATE\obj\Debug\net5.0\BAI_1.0_DELEGATE.AssemblyInfoInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\ConsoleApp1\BAI_1.0_DELEGATE\obj\Debug\net5.0\BAI_1.0_DELEGATE.AssemblyInfo.cs
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\ConsoleApp1\BAI_1.0_DELEGATE\obj\Debug\net5.0\BAI_1.0_DELEGATE.csproj.CoreCompileInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\ConsoleApp1\BAI_1.0_DELEGATE\obj\Debug\net5.0\BAI_1.0_DELEGATE.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\ConsoleApp1\BAI_1.0_DELEGATE\obj\Debug\net5.0\ref\BAI_1.0_DELEGATE.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\ConsoleApp1\BAI_1.0_DELEGATE\obj\Debug\net5.0\BAI_1.0_DELEGATE.pdb
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\ConsoleApp1\BAI_1.0_DELEGATE\obj\Debug\net5.0\BAI_1.0_DELEGATE.genruntimeconfig.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\ConsoleApp1\BAI_1.0_DELEGATE\obj\Debug\net5.0\BAI_1.0_DELEGATE.csprojAssemblyReference.cache
