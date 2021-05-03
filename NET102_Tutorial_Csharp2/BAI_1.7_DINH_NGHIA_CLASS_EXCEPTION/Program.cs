@@ -8,6 +8,7 @@ namespace BAI_1._7_DINH_NGHIA_CLASS_EXCEPTION
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.GetEncoding("UTF-8");
+            Console.InputEncoding = Encoding.UTF8;
             try
             {
                 dangKy("Dũng", 17);

@@ -1,0 +1,15 @@
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.0_PHUON_THUC_GENERIC\bin\Debug\net5.0\BAI_2.0_PHUONG_THUC_GENERIC.exe
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.0_PHUON_THUC_GENERIC\bin\Debug\net5.0\BAI_2.0_PHUONG_THUC_GENERIC.deps.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.0_PHUON_THUC_GENERIC\bin\Debug\net5.0\BAI_2.0_PHUONG_THUC_GENERIC.runtimeconfig.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.0_PHUON_THUC_GENERIC\bin\Debug\net5.0\BAI_2.0_PHUONG_THUC_GENERIC.runtimeconfig.dev.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.0_PHUON_THUC_GENERIC\bin\Debug\net5.0\BAI_2.0_PHUONG_THUC_GENERIC.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.0_PHUON_THUC_GENERIC\bin\Debug\net5.0\ref\BAI_2.0_PHUONG_THUC_GENERIC.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.0_PHUON_THUC_GENERIC\bin\Debug\net5.0\BAI_2.0_PHUONG_THUC_GENERIC.pdb
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.0_PHUON_THUC_GENERIC\obj\Debug\net5.0\BAI_2.0_PHUONG_THUC_GENERIC.GeneratedMSBuildEditorConfig.editorconfig
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.0_PHUON_THUC_GENERIC\obj\Debug\net5.0\BAI_2.0_PHUONG_THUC_GENERIC.AssemblyInfoInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.0_PHUON_THUC_GENERIC\obj\Debug\net5.0\BAI_2.0_PHUONG_THUC_GENERIC.AssemblyInfo.cs
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.0_PHUON_THUC_GENERIC\obj\Debug\net5.0\BAI_2.0_PHUONG_THUC_GENERIC.csproj.CoreCompileInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.0_PHUON_THUC_GENERIC\obj\Debug\net5.0\BAI_2.0_PHUONG_THUC_GENERIC.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.0_PHUON_THUC_GENERIC\obj\Debug\net5.0\ref\BAI_2.0_PHUONG_THUC_GENERIC.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.0_PHUON_THUC_GENERIC\obj\Debug\net5.0\BAI_2.0_PHUONG_THUC_GENERIC.pdb
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.0_PHUON_THUC_GENERIC\obj\Debug\net5.0\BAI_2.0_PHUONG_THUC_GENERIC.genruntimeconfig.cache
