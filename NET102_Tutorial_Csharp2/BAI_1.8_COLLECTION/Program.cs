@@ -100,7 +100,6 @@ namespace BAI_1._8_COLLECTION
         #endregion
         static void Main(string[] args)
         {
-            c
             DungnaHashTable();
         }
     }
