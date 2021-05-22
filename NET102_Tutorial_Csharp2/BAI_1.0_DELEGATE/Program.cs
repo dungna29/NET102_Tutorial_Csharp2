@@ -8,17 +8,7 @@ namespace BAI_1._0_DELEGATE
     class Program
     {
         #region Bài về Delegate 
-        /*
-         * Định nghĩa:
-             * ❑Delegate là một biến chứa tham chiếu đến phương thức cần thực thi.
-               ❑Một delegate có thể trỏ tới một hoặc nhiều phương thức
-               ❑Delegate có thể gọi bất kỳ phương thức nào nó trỏ tới tại thời điểm thực thi
-               ❑
-         * + Có thể khai báo trong namespace hoặc khai báo trong class
-         * + Khi khai báo giống như khai báo một phương thức
-         * + Công thức:
-         *      <phạm vi truy cập> delegate <kiểu phương thức> <tên>(<Tham số>); 
-         */
+       
 
         static void Info1(string s)
         {
@@ -94,7 +84,7 @@ namespace BAI_1._0_DELEGATE
         {
             Console.WriteLine("Mời nhập thông báo: ");
             var mes = Console.ReadLine();
-            showMes(mes);
+            delegateCallback(mes);
         }
 
         #endregion

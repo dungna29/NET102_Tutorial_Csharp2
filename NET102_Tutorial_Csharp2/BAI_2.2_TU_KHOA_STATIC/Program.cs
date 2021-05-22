@@ -84,6 +84,7 @@ namespace BAI_2._2_TU_KHOA_STATIC
             }
         Lớp tĩnh có các đặc điểm
            + Chỉ chứa các thành phần tĩnh (biến tĩnh, phương thức tĩnh).
+           + Một lớp tĩnh có thể chứa các biến tĩnh, phương thức tĩnh, thuộc tính tĩnh, toán tử tĩnh, sự kiện tĩnh và hàm tạo tĩnh.
            + Không thể khai báo, khởi tạo 1 đối tượng thuộc lớp tĩnh.
            Với 2 đặc điểm trên có thể thấy lớp tĩnh thường được dùng với mục đích khai báo 1 lớp tiện ích chứa các hàm tiện ích hoặc hằng số vì:           
                - Ràng buộc các thành phần bên trong lớp phải là static.
@@ -115,11 +116,24 @@ namespace BAI_2._2_TU_KHOA_STATIC
             Console.OutputEncoding = Encoding.GetEncoding("UTF-8");
             Console.InputEncoding = Encoding.UTF8;
 
-            var result = Calculator.Sum(10, 25); // calling static method
+            /*
+             * Phần 1: Class static
+             */
+            var calcType = Calculator.Type; // Truy cập biến static trong class static
+            Calculator.Type = "FPOLY TOÁN HỌC"; // Gán giá trị cho biến tĩnh
+            Console.WriteLine(Calculator.Type);
+
+            var result = Calculator.Sum(10, 25); // Phương thức tính tổng tĩnh từ class static
             Calculator.Store(result);
 
-            var calcType = Calculator.Type; // accessing static variable
-            Calculator.Type = "Scientific"; // assign value to static variable
+            /*
+            * Phần 2: Contructor Class static
+            */
+            ContructorStatic contructorStatic1 = new ContructorStatic();//Contructor tĩnh sẽ được gọi lên và contructor thường
+            ContructorStatic contructorStatic2 = new ContructorStatic();
+           
+
+
         }
     }
 }

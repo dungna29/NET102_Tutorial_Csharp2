@@ -51,8 +51,5 @@ namespace BAI_1._3_DELEGATE_EVENT2
             //Thực thi tác động vào sự kiện
             userInput.getInputValue();
         }
-
-      
-
     }
 }

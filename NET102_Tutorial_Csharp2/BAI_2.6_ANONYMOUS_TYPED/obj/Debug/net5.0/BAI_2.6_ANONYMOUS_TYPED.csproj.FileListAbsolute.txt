@@ -1,0 +1,16 @@
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.6_ANONYMOUS_TYPED\bin\Debug\net5.0\BAI_2.6_ANONYMOUS_TYPED.exe
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.6_ANONYMOUS_TYPED\bin\Debug\net5.0\BAI_2.6_ANONYMOUS_TYPED.deps.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.6_ANONYMOUS_TYPED\bin\Debug\net5.0\BAI_2.6_ANONYMOUS_TYPED.runtimeconfig.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.6_ANONYMOUS_TYPED\bin\Debug\net5.0\BAI_2.6_ANONYMOUS_TYPED.runtimeconfig.dev.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.6_ANONYMOUS_TYPED\bin\Debug\net5.0\BAI_2.6_ANONYMOUS_TYPED.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.6_ANONYMOUS_TYPED\bin\Debug\net5.0\ref\BAI_2.6_ANONYMOUS_TYPED.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.6_ANONYMOUS_TYPED\bin\Debug\net5.0\BAI_2.6_ANONYMOUS_TYPED.pdb
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.6_ANONYMOUS_TYPED\obj\Debug\net5.0\BAI_2.6_ANONYMOUS_TYPED.csprojAssemblyReference.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.6_ANONYMOUS_TYPED\obj\Debug\net5.0\BAI_2.6_ANONYMOUS_TYPED.GeneratedMSBuildEditorConfig.editorconfig
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.6_ANONYMOUS_TYPED\obj\Debug\net5.0\BAI_2.6_ANONYMOUS_TYPED.AssemblyInfoInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.6_ANONYMOUS_TYPED\obj\Debug\net5.0\BAI_2.6_ANONYMOUS_TYPED.AssemblyInfo.cs
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.6_ANONYMOUS_TYPED\obj\Debug\net5.0\BAI_2.6_ANONYMOUS_TYPED.csproj.CoreCompileInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.6_ANONYMOUS_TYPED\obj\Debug\net5.0\BAI_2.6_ANONYMOUS_TYPED.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.6_ANONYMOUS_TYPED\obj\Debug\net5.0\ref\BAI_2.6_ANONYMOUS_TYPED.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.6_ANONYMOUS_TYPED\obj\Debug\net5.0\BAI_2.6_ANONYMOUS_TYPED.pdb
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.6_ANONYMOUS_TYPED\obj\Debug\net5.0\BAI_2.6_ANONYMOUS_TYPED.genruntimeconfig.cache

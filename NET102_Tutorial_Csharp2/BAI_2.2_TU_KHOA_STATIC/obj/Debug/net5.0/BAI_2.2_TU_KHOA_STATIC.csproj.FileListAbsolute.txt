@@ -13,3 +13,4 @@ F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tut
 F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.2_TU_KHOA_STATIC\obj\Debug\net5.0\ref\BAI_2.2_TU_KHOA_STATIC.dll
 F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.2_TU_KHOA_STATIC\obj\Debug\net5.0\BAI_2.2_TU_KHOA_STATIC.pdb
 F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.2_TU_KHOA_STATIC\obj\Debug\net5.0\BAI_2.2_TU_KHOA_STATIC.genruntimeconfig.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.2_TU_KHOA_STATIC\obj\Debug\net5.0\BAI_2.2_TU_KHOA_STATIC.csprojAssemblyReference.cache

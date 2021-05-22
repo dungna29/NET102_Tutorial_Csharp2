@@ -88,9 +88,10 @@ namespace BAI_1._1_DELEGATE_ACTION_FUNC
             #endregion
 
             #region Phần 3: Predicate khai báo với phương thức có kiểu trả về true false
-
-            Predicate<string> predicate;//Chỉ được phép sử dụng 1 tham số truyền vào
+            Console.WriteLine("==== Phần 3: Predicate khai báo với phương thức có kiểu trả về true false ====");
+            Predicate<string> predicate; //Tương đương như delegate bool TenDelegate(string a);
             predicate = IsUpperCase;
+            Console.WriteLine("Chữ có viết hoa hay không: = " + predicate("ABC"));
 
             #endregion
         }
