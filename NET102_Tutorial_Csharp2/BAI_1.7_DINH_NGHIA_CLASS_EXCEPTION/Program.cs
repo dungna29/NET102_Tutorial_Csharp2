@@ -40,6 +40,10 @@ namespace BAI_1._7_DINH_NGHIA_CLASS_EXCEPTION
             }
 
             Console.WriteLine("Chào mừng bạn đến với Club C#: " + name + " " + age);
+
+
         }
+
+        
     }
 }

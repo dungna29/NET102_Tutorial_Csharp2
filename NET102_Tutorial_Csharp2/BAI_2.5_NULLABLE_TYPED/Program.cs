@@ -65,7 +65,7 @@ namespace BAI_2._5_NULLABLE_TYPED
                     + Cần gán gia trị cho biến khi khai báo nếu không sẽ bị lỗi và nên kiểm tra giá tị trước khi dùng bằng HasValue
                     + Dùng phương thức GetValueOrDefault() để lấy giá mặc định của kiểu dữ liệu
                     + Dùng toán tử ?? thực hiện gán Nullable Type cho Non-Nullable Type
-                        
+
              */
             Nullable<int> temp3 = null;
             Nullable<int> temp4 = 10;

@@ -1,0 +1,15 @@
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO\bin\Debug\net5.0\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO.exe
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO\bin\Debug\net5.0\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO.deps.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO\bin\Debug\net5.0\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO.runtimeconfig.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO\bin\Debug\net5.0\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO.runtimeconfig.dev.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO\bin\Debug\net5.0\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO\bin\Debug\net5.0\ref\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO\bin\Debug\net5.0\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO.pdb
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO\obj\Debug\net5.0\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO.GeneratedMSBuildEditorConfig.editorconfig
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO\obj\Debug\net5.0\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO.AssemblyInfoInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO\obj\Debug\net5.0\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO.AssemblyInfo.cs
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO\obj\Debug\net5.0\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO.csproj.CoreCompileInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO\obj\Debug\net5.0\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO\obj\Debug\net5.0\ref\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO\obj\Debug\net5.0\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO.pdb
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\NET102_Tutorial_Csharp2\NET102_Tutorial_Csharp2\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO\obj\Debug\net5.0\BAI_2.7_THAO_TAC_VOI_TAP_TIN_System.IO.genruntimeconfig.cache
